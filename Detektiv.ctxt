@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Detektiv
+comment0.text=\r\n\ Die\ Klasse\ Detektiv\ erbt\ von\ der\ Klasse\ Person.\r\n\ Detektive\ haben\ ein\ zus\u00E4tzliches\ Attribut\ "detektivb\u00FCro",\ das\ den\ Namen\ der\ Detektei\ speichert.\ \r\n
+comment1.params=name\ alter\ wohnort
+comment1.target=Detektiv(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Detektiv.\ Hier\ werden\ zun\u00E4chst\ nur\ Name,\ Alter\ und\ Wohnort\ festgelegt,\ \r\n\ da\ nicht\ jeder\ Detektiv\ auch\ sofort\ einen\ Namen\ f\u00FCr\ sein\ Detektivb\u00FCro\ hat.\r\n
+comment2.params=detektivb\u00FCro
+comment2.target=void\ setDetektivb\u00FCro(java.lang.String)
+comment2.text=\r\n\ Der\ Name\ der\ Detektei\ wird\ festgelegt.\r\n\ \r\n\ @param\:\ detektivb\u00FCro\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDetektivb\u00FCro()
+comment3.text=\r\n\ Der\ Name\ der\ Detektei\ wird\ zur\u00FCckgegeben.\r\n\ \r\n\ @return\:\ detektivb\u00FCro\r\n
+numComments=4

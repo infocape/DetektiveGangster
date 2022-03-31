@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Jede\ Person\ hat\ einen\ Namen,\ ein\ gewisses\ Alter\ und\ einen\ Wohnort.\r\n\ \r\n\ Start\ des\ Projekts\:\ C.P.\r\n\ Weiterf\u00FChrung\ des\ Projekts\:\ (trage\ hier\ deinen\ Namen\ bzw.\ deine\ Initialen\ ein)\r\n
+comment1.params=name\ alter\ wohnort
+comment1.target=Person(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\ \r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Person.\r\n\ Der\ Name,\ das\ Alter\ und\ der\ Wohnort\ m\u00FCssen\ \u00FCbergeben\ werden.\ \r\n
+comment2.params=
+comment2.target=int\ getAlter()
+comment2.text=\r\n\ Das\ Alter\ wird\ zur\u00FCckgegeben.\r\n\ @return\:\ alter\r\n
+numComments=3

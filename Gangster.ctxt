@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gangster
+comment0.text=\r\n\ Die\ Klasse\ Gangster\ erbt\ von\ der\ Klasse\ Person.\r\n\ Gangster\ haben\ ein\ zus\u00E4tzliches\ Attribut\ "gef\u00E4ngnis",\ das\ speichert,\ ob\ ein\ Gangster\ schon\ mal\ im\ Gef\u00E4ngnis\ sa\u00DF\ oder\ nicht.\ \r\n
+comment1.params=name\ alter\ wohnort
+comment1.target=Gangster(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Gangster.\ Hier\ werden\ zun\u00E4chst\ nur\ Name,\ Alter\ und\ Wohnort\ festgelegt.\r\n
+numComments=2
